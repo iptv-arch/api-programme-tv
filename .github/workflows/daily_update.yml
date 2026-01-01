@@ -1,0 +1,41 @@
+name: Mise à jour Programme TV
+
+# Déclencheurs :
+# 1. Tous les jours à 00:00 UTC
+# 2. Manuellement via le bouton "Run workflow" (pour tester)
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupération du code
+        uses: actions/checkout@v3
+
+      - name: Installation de Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Installation des dépendances
+        run: |
+          pip install -r requirements.txt
+
+      - name: Exécution du script de génération
+        run: python export_tv.py
+
+      - name: Sauvegarde et Publication (Commit & Push)
+        run: |
+          git config --global user.name 'GitHub Action Bot'
+          git config --global user.email 'action@github.com'
+          git add programme_tv.json
+          # On ne commit que si le fichier a changé
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Mise à jour automatique du programme TV" && git push)
