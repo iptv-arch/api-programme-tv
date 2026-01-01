@@ -1,41 +1,64 @@
-name: Mise à jour Programme TV
-
-# Déclencheurs :
-# 1. Tous les jours à 00:00 UTC
-# 2. Manuellement via le bouton "Run workflow" (pour tester)
+name: API Update & Deploy
 
 on:
+  # Se lance tous les jours à 00:00
   schedule:
     - cron: '0 0 * * *'
+  # Permet de lancer manuellement depuis l'onglet "Actions" pour tester
   workflow_dispatch:
 
+# Permissions nécessaires pour modifier la page GitHub
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+# Empêche que deux mises à jour se marchent dessus
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-      - name: Récupération du code
+      # 1. Récupération du code
+      - name: Checkout du code
         uses: actions/checkout@v3
 
-      - name: Installation de Python
+      # 2. Configuration Python
+      - name: Installation Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
+      # 3. Installation des librairies
       - name: Installation des dépendances
-        run: |
-          pip install -r requirements.txt
+        run: pip install requests
 
-      - name: Exécution du script de génération
+      # 4. Génération du JSON
+      - name: Lancement du script Python
         run: python export_tv.py
-
-      - name: Sauvegarde et Publication (Commit & Push)
+      
+      # 5. Préparation du site web (On déplace le JSON dans un dossier 'public')
+      - name: Préparation des fichiers du site
         run: |
-          git config --global user.name 'GitHub Action Bot'
-          git config --global user.email 'action@github.com'
-          git add programme_tv.json
-          # On ne commit que si le fichier a changé
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Mise à jour automatique du programme TV" && git push)
+          mkdir public
+          cp programme_tv.json public/
+          # Optionnel : Créer une page d'accueil simple pour tester
+          echo "<h1>API TV Active</h1><p><a href='programme_tv.json'>Voir le JSON</a></p>" > public/index.html
+
+      # 6. Upload du dossier pour GitHub Pages
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: './public'
+
+      # 7. DÉPLOIEMENT IMMÉDIAT
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
