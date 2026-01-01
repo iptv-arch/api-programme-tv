@@ -1,19 +1,15 @@
 name: API Update & Deploy
 
 on:
-  # Se lance tous les jours à 00:00
   schedule:
     - cron: '0 0 * * *'
-  # Permet de lancer manuellement depuis l'onglet "Actions" pour tester
   workflow_dispatch:
 
-# Permissions nécessaires pour modifier la page GitHub
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Empêche que deux mises à jour se marchent dessus
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -26,39 +22,35 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-      # 1. Récupération du code
+      # 1. Mise à jour vers checkout@v4
       - name: Checkout du code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      # 2. Configuration Python
+      # 2. Mise à jour vers setup-python@v5
       - name: Installation Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.9'
 
-      # 3. Installation des librairies
       - name: Installation des dépendances
         run: pip install requests
 
-      # 4. Génération du JSON
       - name: Lancement du script Python
         run: python export_tv.py
       
-      # 5. Préparation du site web (On déplace le JSON dans un dossier 'public')
       - name: Préparation des fichiers du site
         run: |
           mkdir public
           cp programme_tv.json public/
-          # Optionnel : Créer une page d'accueil simple pour tester
           echo "<h1>API TV Active</h1><p><a href='programme_tv.json'>Voir le JSON</a></p>" > public/index.html
 
-      # 6. Upload du dossier pour GitHub Pages
+      # 3. CRITIQUE : Passage à upload-pages-artifact@v3 (qui utilise le nouveau moteur v4)
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: './public'
 
-      # 7. DÉPLOIEMENT IMMÉDIAT
+      # 4. CRITIQUE : Passage à deploy-pages@v4
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
