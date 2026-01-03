@@ -1,0 +1,1502 @@
+[
+  {
+    "Nb": "1",
+    "EpgId": "312",
+    "Name": "TF1",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66746746"
+  },
+  {
+    "Nb": "2",
+    "EpgId": "26",
+    "Name": "FRANCE 2",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67032119"
+  },
+  {
+    "Nb": "3",
+    "EpgId": "543",
+    "Name": "FRANCE 3",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67033022"
+  },
+  {
+    "Nb": "4",
+    "EpgId": "301",
+    "Name": "CANAL+",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/301/canal-ouah/CHN43FN/CHN43FN_301_29082023"
+  },
+  {
+    "Nb": "5",
+    "EpgId": "545",
+    "Name": "FRANCE 5",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67033026"
+  },
+  {
+    "Nb": "6",
+    "EpgId": "313",
+    "Name": "M6",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/313/canal-ouah/CHN43FN/CHN43FN_M6_20220415"
+  },
+  {
+    "Nb": "7",
+    "EpgId": "154",
+    "Name": "ARTE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/3932761"
+  },
+  {
+    "Nb": "10",
+    "EpgId": "83",
+    "Name": "CANAL+SPORT360",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/83/canal-ouah/CHN43FN/CHN43FN_83_29082023"
+  },
+  {
+    "Nb": "13",
+    "EpgId": "1074",
+    "Name": "CANAL+BOX OFFICE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1074/canal-ouah/CHN43FN/CHN43FN_1074_29082023"
+  },
+  {
+    "Nb": "14",
+    "EpgId": "900",
+    "Name": "CANAL+GRAND ECRAN",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/900/canal-ouah/CHN43FN/CHN43FN_900_29082023"
+  },
+  {
+    "Nb": "15",
+    "EpgId": "198",
+    "Name": "CANAL+CINEMA.S",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/198/canal-ouah/CHN43FN/CHN43FN_198_29082023"
+  },
+  {
+    "Nb": "17",
+    "EpgId": "899",
+    "Name": "CANAL+DOCS",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/899/canal-ouah/CHN43FN/CHN43FN_899_29082023"
+  },
+  {
+    "Nb": "18",
+    "EpgId": "259",
+    "Name": "CANAL+kids",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/259/canal-ouah/CHN43FN/CHN43FN_259_29082023"
+  },
+  {
+    "Nb": "28",
+    "EpgId": "364",
+    "Name": "A LA UNE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/31732807"
+  },
+  {
+    "Nb": "29",
+    "EpgId": "289",
+    "Name": "CHAINE EVENEMENT",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/289/canal-ouah/CHN43FN/CHN43FN_289_20190201"
+  },
+  {
+    "Nb": "33",
+    "EpgId": "322",
+    "Name": "OCS",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/322/canal-ouah/CHN43FN/CHN43FN_322_20240703-lyaw"
+  },
+  {
+    "Nb": "34",
+    "EpgId": "398",
+    "Name": "CINE+ FRISSON",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/398/canal-ouah/CHN43FN/CHN43FN_398_20240703--MGY"
+  },
+  {
+    "Nb": "35",
+    "EpgId": "396",
+    "Name": "CINE+ EMOTION",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/396/canal-ouah/CHN43FN/CHN43FN_396_20240703-ziX9"
+  },
+  {
+    "Nb": "36",
+    "EpgId": "533",
+    "Name": "CINE+ FAMILY",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/533/canal-ouah/CHN43FN/CHN43FN_533_20240703-hEX8"
+  },
+  {
+    "Nb": "37",
+    "EpgId": "532",
+    "Name": "CINE+ FESTIVAL",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/532/canal-ouah/CHN43FN/CHN43FN_532_20240703-kAx_"
+  },
+  {
+    "Nb": "38",
+    "EpgId": "531",
+    "Name": "CINE+ CLASSIC",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/531/canal-ouah/CHN43FN/CHN43FN_531_20240703-2TQN"
+  },
+  {
+    "Nb": "45",
+    "EpgId": "374",
+    "Name": "TCM CINEMA",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/374/canal-ouah/CHN43FN/CHN43FN_374_20240611-hjHG"
+  },
+  {
+    "Nb": "52",
+    "EpgId": "356",
+    "Name": "SERIE CLUB",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/19132964"
+  },
+  {
+    "Nb": "53",
+    "EpgId": "694",
+    "Name": "WARNER TV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/694/canal-ouah/CHN43FN/CHN43FN_694_20240611-j9xY"
+  },
+  {
+    "Nb": "59",
+    "EpgId": "526",
+    "Name": "TF1 SERIES FILMS",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/526/canal-ouah/CHN43FN/CHN43FN_526_20251024--y7o"
+  },
+  {
+    "Nb": "63",
+    "EpgId": "551",
+    "Name": "INFOSPORT+",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/37032867"
+  },
+  {
+    "Nb": "75",
+    "EpgId": "1080",
+    "Name": "SPORT EN FRANCE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1080/canal-ouah/CHN43FN/CHN43FN_1080_20240206-go3d"
+  },
+  {
+    "Nb": "76",
+    "EpgId": "1182",
+    "Name": "CHEVAL TV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1182/canal-ouah/CHN43FN/CHN43FN_1182_20251013-QVcu"
+  },
+  {
+    "Nb": "79",
+    "EpgId": "451",
+    "Name": "L'EQUIPE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44863403"
+  },
+  {
+    "Nb": "86",
+    "EpgId": "1097",
+    "Name": "TLC",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1097/canal-ouah/CHN43FN/CHN43FN_1097_20240611-7qUQ"
+  },
+  {
+    "Nb": "89",
+    "EpgId": "296",
+    "Name": "W9",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/296/canal-ouah/CHN43FN/CHN43FN_W9_20220415"
+  },
+  {
+    "Nb": "90",
+    "EpgId": "584",
+    "Name": "TMC",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66747568"
+  },
+  {
+    "Nb": "91",
+    "EpgId": "570",
+    "Name": "TFX",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66747551"
+  },
+  {
+    "Nb": "92",
+    "EpgId": "513",
+    "Name": "CSTAR",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64699011"
+  },
+  {
+    "Nb": "93",
+    "EpgId": "1167",
+    "Name": "T18",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1167/canal-ouah/CHN43FN/CHN43FN_1167_20250606-oUVi"
+  },
+  {
+    "Nb": "94",
+    "EpgId": "1168",
+    "Name": "NOVO19",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1168/canal-ouah/CHN43FN/CHN43FN_1168_20250901-8-M2"
+  },
+  {
+    "Nb": "95",
+    "EpgId": "521",
+    "Name": "6TER",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/521/canal-ouah/CHN43FN/CHN43FN_6TER_20220415"
+  },
+  {
+    "Nb": "96",
+    "EpgId": "571",
+    "Name": "RMC STORY",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/571/canal-ouah/CHN43FN/CHN43FN_571_20251217-pHg9"
+  },
+  {
+    "Nb": "97",
+    "EpgId": "440",
+    "Name": "RMC LIFE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/440/canal-ouah/CHN43FN/CHN43FN_440_20251217-5Jlb"
+  },
+  {
+    "Nb": "98",
+    "EpgId": "520",
+    "Name": "TV5 MONDE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/520/canal-ouah/CHN43FN/CHN43FN_520_20251008-YfN8"
+  },
+  {
+    "Nb": "120",
+    "EpgId": "174",
+    "Name": "DISCOVERY CHANNEL",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/174/canal-ouah/CHN43FN/CHN43FN_174_20240611-RzWh"
+  },
+  {
+    "Nb": "121",
+    "EpgId": "1098",
+    "Name": "DISCOVERY INVESTIGATION",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1098/canal-ouah/CHN43FN/CHN43FN_1098_20240611-gw0t"
+  },
+  {
+    "Nb": "125",
+    "EpgId": "1076",
+    "Name": "TV MONACO",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1076/canal-ouah/CHN43FN/CHN43FN_1076_20230919"
+  },
+  {
+    "Nb": "126",
+    "EpgId": "1102",
+    "Name": "LE FIGARO TV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1102/canal-ouah/CHN43FN/CHN43FN_1102_20241115-3Ztt"
+  },
+  {
+    "Nb": "128",
+    "EpgId": "1181",
+    "Name": "MIEUX",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1181/canal-ouah/CHN43FN/CHN43FN_1181_20251013-7Cyc"
+  },
+  {
+    "Nb": "129",
+    "EpgId": "595",
+    "Name": "RMC DECOUVERTE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/595/canal-ouah/CHN43FN/CHN43FN_595_20251217-j8Gg"
+  },
+  {
+    "Nb": "135",
+    "EpgId": "1096",
+    "Name": "CARTOONITO",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1096/canal-ouah/CHN43FN/CHN43FN_1096_20240611-HkpZ"
+  },
+  {
+    "Nb": "136",
+    "EpgId": "530",
+    "Name": "BOOMERANG",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/530/canal-ouah/CHN43FN/CHN43FN_530_20240611-d926"
+  },
+  {
+    "Nb": "141",
+    "EpgId": "502",
+    "Name": "CARTOON NETWORK",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/502/canal-ouah/CHN43FN/CHN43FN_502_20240611-PFfK"
+  },
+  {
+    "Nb": "147",
+    "EpgId": "544",
+    "Name": "FRANCE 4",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/67033024"
+  },
+  {
+    "Nb": "148",
+    "EpgId": "549",
+    "Name": "GULLI",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/549/canal-ouah/CHN43FN/CHN43FN_40067_20230829"
+  },
+  {
+    "Nb": "159",
+    "EpgId": "1095",
+    "Name": "WARNER TV NEXT",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1095/canal-ouah/CHN43FN/CHN43FN_1095_20240611-B2e2"
+  },
+  {
+    "Nb": "161",
+    "EpgId": "480",
+    "Name": "CNEWS",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64698936"
+  },
+  {
+    "Nb": "162",
+    "EpgId": "633",
+    "Name": "BFM TV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/633/canal-ouah/CHN43FN/CHN43FN_633_20251218-f7Fp"
+  },
+  {
+    "Nb": "163",
+    "EpgId": "553",
+    "Name": "LCI",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66747521"
+  },
+  {
+    "Nb": "164",
+    "EpgId": "670",
+    "Name": "FRANCEINFO:",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/41072782"
+  },
+  {
+    "Nb": "165",
+    "EpgId": "554",
+    "Name": "LCP",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/554/canal-ouah/CHN43FN/CHN43FN_554_20251118-jlNy"
+  },
+  {
+    "Nb": "166",
+    "EpgId": "310",
+    "Name": "FRANCE 24",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/18810794"
+  },
+  {
+    "Nb": "167",
+    "EpgId": "324",
+    "Name": "EURONEWS",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/324/canal-ouah/CHN43FN/EURONEWS2023_myCANAL_640x480"
+  },
+  {
+    "Nb": "169",
+    "EpgId": "589",
+    "Name": "BBC NEWS",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/589/canal-ouah/CHN43FN/BBCNEWS_POURFN_myCANAL_640x480"
+  },
+  {
+    "Nb": "170",
+    "EpgId": "30",
+    "Name": "CNN",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/13455768"
+  },
+  {
+    "Nb": "171",
+    "EpgId": "645",
+    "Name": "BFM BUSINESS",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/54239635"
+  },
+  {
+    "Nb": "173",
+    "EpgId": "47",
+    "Name": "BLOOMBERG TV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/47/canal-ouah/CHN43FN/CHN43FN_47_20220117"
+  },
+  {
+    "Nb": "174",
+    "EpgId": "64",
+    "Name": "CNBC",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/64/canal-ouah/CHN43FN/CHN43FN_64_20251213-No8s"
+  },
+  {
+    "Nb": "175",
+    "EpgId": "362",
+    "Name": "I24 NEWS",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/61717621"
+  },
+  {
+    "Nb": "177",
+    "EpgId": "675",
+    "Name": "AL JAZEERA ENG",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/41072787"
+  },
+  {
+    "Nb": "178",
+    "EpgId": "1172",
+    "Name": "CNEWS PRIME",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1172/canal-ouah/CHN43FN/CHN43FN_1172_20251124-f2op"
+  },
+  {
+    "Nb": "179",
+    "EpgId": "1173",
+    "Name": "EUROPE 1 TV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1173/canal-ouah/CHN43FN/CHN43FN_1173_20251210-INrP"
+  },
+  {
+    "Nb": "212",
+    "EpgId": "632",
+    "Name": "ASTROCENTER TV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64176102"
+  },
+  {
+    "Nb": "249",
+    "EpgId": "1153",
+    "Name": "CANAL+LIVE 19",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1153/canal-ouah/CHN43FN/CHN43FN_1153_20240910-GuM-"
+  },
+  {
+    "Nb": "350",
+    "EpgId": "926",
+    "Name": "F3 ALPES",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263744"
+  },
+  {
+    "Nb": "351",
+    "EpgId": "941",
+    "Name": "F3 ALSACE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263809"
+  },
+  {
+    "Nb": "352",
+    "EpgId": "922",
+    "Name": "F3 AQUITAINE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263728"
+  },
+  {
+    "Nb": "353",
+    "EpgId": "924",
+    "Name": "F3 AUVERGNE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263736"
+  },
+  {
+    "Nb": "354",
+    "EpgId": "923",
+    "Name": "F3 BNORMANDIE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263732"
+  },
+  {
+    "Nb": "355",
+    "EpgId": "925",
+    "Name": "F3 BOURGOGNE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263740"
+  },
+  {
+    "Nb": "356",
+    "EpgId": "939",
+    "Name": "F3 BRETAGNE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263797"
+  },
+  {
+    "Nb": "357",
+    "EpgId": "935",
+    "Name": "F3 CENTRE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263781"
+  },
+  {
+    "Nb": "358",
+    "EpgId": "938",
+    "Name": "F3 CHAMP ARDENNE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263793"
+  },
+  {
+    "Nb": "359",
+    "EpgId": "943",
+    "Name": "F3 CORSEVIASTELLA",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263817"
+  },
+  {
+    "Nb": "360",
+    "EpgId": "934",
+    "Name": "F3 COTE D'AZUR",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263777"
+  },
+  {
+    "Nb": "361",
+    "EpgId": "921",
+    "Name": "F3 FRANCHE COMTE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263724"
+  },
+  {
+    "Nb": "362",
+    "EpgId": "940",
+    "Name": "F3 HNORMANDIE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263805"
+  },
+  {
+    "Nb": "363",
+    "EpgId": "931",
+    "Name": "F3 LANGUEDOCROU",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263765"
+  },
+  {
+    "Nb": "364",
+    "EpgId": "928",
+    "Name": "F3 LIMOUSIN",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263752"
+  },
+  {
+    "Nb": "365",
+    "EpgId": "932",
+    "Name": "F3 LORRAINE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263769"
+  },
+  {
+    "Nb": "366",
+    "EpgId": "942",
+    "Name": "F3 MIDI PYRENEES",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263813"
+  },
+  {
+    "Nb": "367",
+    "EpgId": "927",
+    "Name": "F3 NORD PDC",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263748"
+  },
+  {
+    "Nb": "368",
+    "EpgId": "936",
+    "Name": "F3 PARIS IDF",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263785"
+  },
+  {
+    "Nb": "369",
+    "EpgId": "933",
+    "Name": "F3 PAYS DE LA LOIRE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263773"
+  },
+  {
+    "Nb": "370",
+    "EpgId": "920",
+    "Name": "F3 PICARDIE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263720"
+  },
+  {
+    "Nb": "371",
+    "EpgId": "937",
+    "Name": "F3 POITOUCHAR",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263789"
+  },
+  {
+    "Nb": "372",
+    "EpgId": "930",
+    "Name": "F3 PROV ALPES",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263761"
+  },
+  {
+    "Nb": "373",
+    "EpgId": "929",
+    "Name": "F3 RHONE ALPES",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79263756"
+  },
+  {
+    "Nb": "374",
+    "EpgId": "998",
+    "Name": "NOA",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/998/canal-ouah/CHN43FN/CHN43FN_998_20220112"
+  },
+  {
+    "Nb": "400",
+    "EpgId": "228",
+    "Name": "AL JAZEERA ARABIC",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/228/canal-ouah/CHN43FN/CHN43FN_228_20231002"
+  },
+  {
+    "Nb": "407",
+    "EpgId": "311",
+    "Name": "FRANCE 24 ENG",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/18810797"
+  },
+  {
+    "Nb": "446",
+    "EpgId": "21120",
+    "Name": "ARTE ALLEMAND",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/21120/canal-ouah/CHN43FB/CHN43FB_EPGID_21120_15112021"
+  },
+  {
+    "Nb": "447",
+    "EpgId": "696",
+    "Name": "EURONEWS ALL",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/696/canal-ouah/CHN43FN/EURONEWSDeutsch_myCANAL_640x480"
+  },
+  {
+    "Nb": "472",
+    "EpgId": "252",
+    "Name": "ARIRANG TV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/252/canal-ouah/CHN43FB/CHN43FB_252_20211122"
+  },
+  {
+    "Nb": "473",
+    "EpgId": "654",
+    "Name": "NHK WORLD-JAPAN",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/654/canal-ouah/CHN43FN/NHKWOLRDJAPAN_640x480-11ZN"
+  },
+  {
+    "Nb": "720",
+    "EpgId": "1092",
+    "Name": "FRANCE TV SERIES",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1092/canal-ouah/CHN43FN/CHN43FN_1092_20240425-h_ne"
+  },
+  {
+    "Nb": "721",
+    "EpgId": "1159",
+    "Name": "FRANCE TV DOCS",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1159/canal-ouah/CHN43FN/CHN43FN_1159_20241119-_Ehj"
+  },
+  {
+    "Nb": "4",
+    "EpgId": "601",
+    "Name": "CANAL+",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/59320209"
+  },
+  {
+    "Nb": "11",
+    "EpgId": "19",
+    "Name": "CANAL+FOOT",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/19/canal-ouah/CHN43FN/CHN43FN_19_29082023"
+  },
+  {
+    "Nb": "12",
+    "EpgId": "177",
+    "Name": "CANAL+SPORT",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/177/canal-ouah/CHN43FN/CHN43FN_177_29082023"
+  },
+  {
+    "Nb": "43",
+    "EpgId": "487",
+    "Name": "PARAMOUNT NETWORK",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/487/canal-ouah/CHN43FN/CHN43FN_487_20250120-maq3"
+  },
+  {
+    "Nb": "44",
+    "EpgId": "504",
+    "Name": "ACTION",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/20482797"
+  },
+  {
+    "Nb": "51",
+    "EpgId": "692",
+    "Name": "POLAR+",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/61718410"
+  },
+  {
+    "Nb": "54",
+    "EpgId": "586",
+    "Name": "TV BREIZH",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/586/canal-ouah/CHN43FN/CHN43FN_586_20211018"
+  },
+  {
+    "Nb": "55",
+    "EpgId": "505",
+    "Name": "RTL9",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/50052/canal-ouah/CHN43FN/RTL9_chn43fn"
+  },
+  {
+    "Nb": "56",
+    "EpgId": "611",
+    "Name": "AB1",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/611/canal-ouah/CHN43FN/AB1_BLANC_640x480-Fza-"
+  },
+  {
+    "Nb": "57",
+    "EpgId": "693",
+    "Name": "NOVELAS TV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/91743977"
+  },
+  {
+    "Nb": "66",
+    "EpgId": "381",
+    "Name": "BEIN SPORTS 1",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981173"
+  },
+  {
+    "Nb": "67",
+    "EpgId": "384",
+    "Name": "BEIN SPORTS 2",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981183"
+  },
+  {
+    "Nb": "68",
+    "EpgId": "516",
+    "Name": "BEIN SPORTS 3",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981545"
+  },
+  {
+    "Nb": "69",
+    "EpgId": "101",
+    "Name": "EUROSPORT 1",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/101/canal-ouah/CHN43FN/CHN43FN_101_20220110"
+  },
+  {
+    "Nb": "70",
+    "EpgId": "436",
+    "Name": "EUROSPORT 2",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/436/canal-ouah/CHN43FN/CHN43FN_436_20220110"
+  },
+  {
+    "Nb": "72",
+    "EpgId": "378",
+    "Name": "GOLF+",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/2953272"
+  },
+  {
+    "Nb": "73",
+    "EpgId": "612",
+    "Name": "AUTOMOTO LA CHAINE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79159708"
+  },
+  {
+    "Nb": "74",
+    "EpgId": "540",
+    "Name": "EQUIDIA",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66127994"
+  },
+  {
+    "Nb": "80",
+    "EpgId": "534",
+    "Name": "COMEDIE+",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/21549672"
+  },
+  {
+    "Nb": "81",
+    "EpgId": "813",
+    "Name": "OLYMPIA TV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/93985303"
+  },
+  {
+    "Nb": "83",
+    "EpgId": "294",
+    "Name": "PARIS PREMIERE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/294/canal-ouah/CHN43FN/CHN43FN__Paris_Premiere_20220415"
+  },
+  {
+    "Nb": "84",
+    "EpgId": "292",
+    "Name": "TEVA",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/292/canal-ouah/CHN43FN/CHN43FN_292_20211002"
+  },
+  {
+    "Nb": "85",
+    "EpgId": "628",
+    "Name": "BET",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/42935195"
+  },
+  {
+    "Nb": "111",
+    "EpgId": "270",
+    "Name": "PLANETE+",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/4492627"
+  },
+  {
+    "Nb": "112",
+    "EpgId": "587",
+    "Name": "PLANETE+CRIME",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/587/canal-ouah/CHN43FN/CHN43FN_587_120122"
+  },
+  {
+    "Nb": "113",
+    "EpgId": "588",
+    "Name": "PLANETE+AVENTURE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/588/canal-ouah/CHN43FN/CHN43FN_588_120122"
+  },
+  {
+    "Nb": "114",
+    "EpgId": "678",
+    "Name": "MUSEUM",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/95900535"
+  },
+  {
+    "Nb": "117",
+    "EpgId": "142",
+    "Name": "USHUAIA TV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/142/canal-ouah/CHN43FN/CHN43FN_142_20211018"
+  },
+  {
+    "Nb": "118",
+    "EpgId": "550",
+    "Name": "HISTOIRE TV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/550/canal-ouah/CHN43FN/CHN43FN_550_20211018"
+  },
+  {
+    "Nb": "119",
+    "EpgId": "620",
+    "Name": "TOUTE L'HISTOIRE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/25328988"
+  },
+  {
+    "Nb": "122",
+    "EpgId": "577",
+    "Name": "SEASONS",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/577/canal-ouah/CHN43FN/CHN43FN_577_20231128-rzna"
+  },
+  {
+    "Nb": "123",
+    "EpgId": "681",
+    "Name": "CHASSE ET PECHE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44978855"
+  },
+  {
+    "Nb": "124",
+    "EpgId": "503",
+    "Name": "ANIMAUX",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/54239442"
+  },
+  {
+    "Nb": "131",
+    "EpgId": "576",
+    "Name": "PIWI+",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/21549720"
+  },
+  {
+    "Nb": "133",
+    "EpgId": "593",
+    "Name": "NICKELODEON JUNIOR",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/593/canal-ouah/CHN43FN/CHN43FN_593_20240205-D3YF"
+  },
+  {
+    "Nb": "134",
+    "EpgId": "583",
+    "Name": "TIJI",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/41072706"
+  },
+  {
+    "Nb": "137",
+    "EpgId": "581",
+    "Name": "TELETOON+",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/21549725"
+  },
+  {
+    "Nb": "138",
+    "EpgId": "582",
+    "Name": "TELETOON+1",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/21549726"
+  },
+  {
+    "Nb": "142",
+    "EpgId": "591",
+    "Name": "NICKELODEON",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/591/canal-ouah/CHN43FN/CHN43FN_591_20240806-VOLC"
+  },
+  {
+    "Nb": "143",
+    "EpgId": "680",
+    "Name": "NICKELODEON+1",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44924953"
+  },
+  {
+    "Nb": "144",
+    "EpgId": "525",
+    "Name": "CANAL J",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/91743730"
+  },
+  {
+    "Nb": "146",
+    "EpgId": "518",
+    "Name": "NICKTOONS",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/518/canal-ouah/CHN43FN/CHN43FN_518_20251507-CYam"
+  },
+  {
+    "Nb": "152",
+    "EpgId": "470",
+    "Name": "MTV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/20482724"
+  },
+  {
+    "Nb": "153",
+    "EpgId": "556",
+    "Name": "MCM",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/62364389"
+  },
+  {
+    "Nb": "154",
+    "EpgId": "806",
+    "Name": "COMEDY CENTRAL",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/92490208"
+  },
+  {
+    "Nb": "155",
+    "EpgId": "484",
+    "Name": "J-ONE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/3040425"
+  },
+  {
+    "Nb": "156",
+    "EpgId": "613",
+    "Name": "MANGAS",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/613/canal-ouah/CHN43FN/CHN43FN_40025_20220711"
+  },
+  {
+    "Nb": "157",
+    "EpgId": "592",
+    "Name": "GAME ONE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/592/canal-ouah/CHN43FN/CHN43FN_592_20241022-_pq5"
+  },
+  {
+    "Nb": "158",
+    "EpgId": "819",
+    "Name": "MGG TV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/819/canal-ouah/CHN43FN/CHN43FN_819_20220127"
+  },
+  {
+    "Nb": "160",
+    "EpgId": "552",
+    "Name": "LA CHAINE METEO",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/21549692"
+  },
+  {
+    "Nb": "180",
+    "EpgId": "723",
+    "Name": "EUROPE 2 POP TV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/723/canal-ouah/CHN43FN/CHN43FN_723_20251001-IXnV"
+  },
+  {
+    "Nb": "181",
+    "EpgId": "352",
+    "Name": "M6 MUSIC",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/352/canal-ouah/CHN43FN/CHN43FN_M6_Music_20220415"
+  },
+  {
+    "Nb": "183",
+    "EpgId": "569",
+    "Name": "NRJ HITS",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/21549710"
+  },
+  {
+    "Nb": "184",
+    "EpgId": "585",
+    "Name": "TRACE URBAN",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/585/canal-ouah/CHN43FN/CHN43FN_585_20230208"
+  },
+  {
+    "Nb": "186",
+    "EpgId": "557",
+    "Name": "RFM TV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/72998764"
+  },
+  {
+    "Nb": "188",
+    "EpgId": "580",
+    "Name": "MELODY",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/21549724"
+  },
+  {
+    "Nb": "200",
+    "EpgId": "560",
+    "Name": "MEZZO",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/560/canal-ouah/CHN43FN/NEW_MEZZO_FN_NOIR_myCANAL_640x480"
+  },
+  {
+    "Nb": "201",
+    "EpgId": "268",
+    "Name": "MEZZO LIVE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/268/canal-ouah/CHN43FN/NEW_MEZZOLIVE_FN_NOIR_myCANAL_640x480"
+  },
+  {
+    "Nb": "222",
+    "EpgId": "616",
+    "Name": "XXL",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/25328987"
+  },
+  {
+    "Nb": "223",
+    "EpgId": "536",
+    "Name": "DORCEL TV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/536/canal-ouah/CHN43FN/CHN43FN_536_20220705"
+  },
+  {
+    "Nb": "224",
+    "EpgId": "537",
+    "Name": "DORCEL XXX",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/537/canal-ouah/CHN43FN/CHN43FN_537_20220705"
+  },
+  {
+    "Nb": "225",
+    "EpgId": "547",
+    "Name": "VIXEN",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/547/canal-ouah/CHN43FN/CHN43FN_EPGID_547_1011202"
+  },
+  {
+    "Nb": "226",
+    "EpgId": "1082",
+    "Name": "UNIONTV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1082/canal-ouah/CHN43FN/CHN43FN_1082_20240223-UNTd"
+  },
+  {
+    "Nb": "228",
+    "EpgId": "575",
+    "Name": "PINK X",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/21549719"
+  },
+  {
+    "Nb": "229",
+    "EpgId": "672",
+    "Name": "MAN X",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/41072784"
+  },
+  {
+    "Nb": "231",
+    "EpgId": "1135",
+    "Name": "CANAL+LIVE 1",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1135/canal-ouah/CHN43FN/CHN43FN_1135_10092024-cEcG"
+  },
+  {
+    "Nb": "232",
+    "EpgId": "1136",
+    "Name": "CANAL+LIVE 2",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1136/canal-ouah/CHN43FN/CHN43FN_1136_20240910-MzpB"
+  },
+  {
+    "Nb": "233",
+    "EpgId": "1137",
+    "Name": "CANAL+LIVE 3",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1137/canal-ouah/CHN43FN/CHN43FN_1137_20240910-d8dJ"
+  },
+  {
+    "Nb": "234",
+    "EpgId": "1138",
+    "Name": "CANAL+LIVE 4",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1138/canal-ouah/CHN43FN/CHN43FN_1138_20240910-bEql"
+  },
+  {
+    "Nb": "235",
+    "EpgId": "1139",
+    "Name": "CANAL+LIVE 5",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1139/canal-ouah/CHN43FN/CHN43FN_1139_20240910-YQYG"
+  },
+  {
+    "Nb": "236",
+    "EpgId": "1140",
+    "Name": "CANAL+LIVE 6",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1140/canal-ouah/CHN43FN/CHN43FN_1140_20240910-MO4V"
+  },
+  {
+    "Nb": "237",
+    "EpgId": "1141",
+    "Name": "CANAL+LIVE 7",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1141/canal-ouah/CHN43FN/CHN43FN_1141_20240910-deiH"
+  },
+  {
+    "Nb": "238",
+    "EpgId": "1142",
+    "Name": "CANAL+LIVE 8",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1142/canal-ouah/CHN43FN/CHN43FN_1142_20240910-m1CN"
+  },
+  {
+    "Nb": "239",
+    "EpgId": "1143",
+    "Name": "CANAL+LIVE 9",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1143/canal-ouah/CHN43FN/CHN43FN_1143_20240910-NMYX"
+  },
+  {
+    "Nb": "240",
+    "EpgId": "1144",
+    "Name": "CANAL+LIVE 10",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1144/canal-ouah/CHN43FN/CHN43FN_1144_20240910-AAy9"
+  },
+  {
+    "Nb": "241",
+    "EpgId": "1145",
+    "Name": "CANAL+LIVE 11",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1145/canal-ouah/CHN43FN/CHN43FN_1145_20240910-RDj_"
+  },
+  {
+    "Nb": "242",
+    "EpgId": "1146",
+    "Name": "CANAL+LIVE 12",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1146/canal-ouah/CHN43FN/CHN43FN_1146_20240910-DOOZ"
+  },
+  {
+    "Nb": "243",
+    "EpgId": "1147",
+    "Name": "CANAL+LIVE 13",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1147/canal-ouah/CHN43FN/CHN43FN_1147_20240910-qJgY"
+  },
+  {
+    "Nb": "244",
+    "EpgId": "1148",
+    "Name": "CANAL+LIVE 14",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1148/canal-ouah/CHN43FN/CHN43FN_1148_20240910-x8vz"
+  },
+  {
+    "Nb": "245",
+    "EpgId": "1149",
+    "Name": "CANAL+LIVE 15",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1149/canal-ouah/CHN43FN/CHN43FN_1149_20240910-TyQ0"
+  },
+  {
+    "Nb": "246",
+    "EpgId": "1150",
+    "Name": "CANAL+LIVE 16",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1150/canal-ouah/CHN43FN/CHN43FN_1150_20240910-TtsK"
+  },
+  {
+    "Nb": "247",
+    "EpgId": "1151",
+    "Name": "CANAL+LIVE 17",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1151/canal-ouah/CHN43FN/CHN43FN_1151_20240910-qxMQ"
+  },
+  {
+    "Nb": "248",
+    "EpgId": "1152",
+    "Name": "CANAL+LIVE 18",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1152/canal-ouah/CHN43FN/CHN43FN_1152_20240910-yyCF"
+  },
+  {
+    "Nb": "252",
+    "EpgId": "635",
+    "Name": "EUROSPORT 360 1",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/635/canal-ouah/CHN43FN/CHN43FN_635_20220110"
+  },
+  {
+    "Nb": "253",
+    "EpgId": "636",
+    "Name": "EUROSPORT 360 2",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/636/canal-ouah/CHN43FN/CHN43FN_636_20220110"
+  },
+  {
+    "Nb": "254",
+    "EpgId": "637",
+    "Name": "EUROSPORT 360 3",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/637/canal-ouah/CHN43FN/CHN43FN_637_20220110"
+  },
+  {
+    "Nb": "255",
+    "EpgId": "638",
+    "Name": "EUROSPORT 360 4",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/638/canal-ouah/CHN43FN/CHN43FN_638_20220110"
+  },
+  {
+    "Nb": "256",
+    "EpgId": "650",
+    "Name": "EUROSPORT 360 5",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/650/canal-ouah/CHN43FN/CHN43FN_650_20220110"
+  },
+  {
+    "Nb": "257",
+    "EpgId": "651",
+    "Name": "EUROSPORT 360 6",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/651/canal-ouah/CHN43FN/CHN43FN_651_20220110"
+  },
+  {
+    "Nb": "258",
+    "EpgId": "652",
+    "Name": "EUROSPORT 360 7",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/652/canal-ouah/CHN43FN/CHN43FN_652_20220110"
+  },
+  {
+    "Nb": "259",
+    "EpgId": "653",
+    "Name": "EUROSPORT 360 8",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/653/canal-ouah/CHN43FN/CHN43FN_653_20220110"
+  },
+  {
+    "Nb": "260",
+    "EpgId": "1105",
+    "Name": "EUROSPORT 360 9",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1105/canal-ouah/CHN43FN/CHN43FN_1105_07162024-SofT"
+  },
+  {
+    "Nb": "261",
+    "EpgId": "1106",
+    "Name": "EUROSPORT 360 10",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1106/canal-ouah/CHN43FN/CHN43FN_1106_07162024-JzCM"
+  },
+  {
+    "Nb": "262",
+    "EpgId": "1107",
+    "Name": "EUROSPORT 360 11",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1107/canal-ouah/CHN43FN/CHN43FN_1107_20240716-mOsh"
+  },
+  {
+    "Nb": "263",
+    "EpgId": "1108",
+    "Name": "EUROSPORT 360 12",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1108/canal-ouah/CHN43FN/CHN43FN_1108_20240716-JgLT"
+  },
+  {
+    "Nb": "264",
+    "EpgId": "1109",
+    "Name": "EUROSPORT 360 13",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1109/canal-ouah/CHN43FN/CHN43FN_1109_20240716-M5H4"
+  },
+  {
+    "Nb": "265",
+    "EpgId": "1110",
+    "Name": "EUROSPORT 360 14",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1110/canal-ouah/CHN43FN/CHN43FN_1110_20240716-ztZk"
+  },
+  {
+    "Nb": "266",
+    "EpgId": "1111",
+    "Name": "EUROSPORT 360 15",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1111/canal-ouah/CHN43FN/CHN43FN_1111_20240716-NFu8"
+  },
+  {
+    "Nb": "267",
+    "EpgId": "1112",
+    "Name": "EUROSPORT 360 16",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1112/canal-ouah/CHN43FN/CHN43FN_1112_20240716-kCBX"
+  },
+  {
+    "Nb": "268",
+    "EpgId": "1113",
+    "Name": "EUROSPORT 360 17",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1113/canal-ouah/CHN43FN/CHN43FN_1113_20240716-Qf4P"
+  },
+  {
+    "Nb": "269",
+    "EpgId": "1114",
+    "Name": "EUROSPORT 360 18",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1114/canal-ouah/CHN43FN/CHN43FN_1114_20240716-169J"
+  },
+  {
+    "Nb": "270",
+    "EpgId": "1115",
+    "Name": "EUROSPORT 360 19",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1115/canal-ouah/CHN43FN/CHN43FN_1115_20240716-ebPd"
+  },
+  {
+    "Nb": "271",
+    "EpgId": "1116",
+    "Name": "EUROSPORT 360 20",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1116/canal-ouah/CHN43FN/CHN43FN_1116_20240716-jO6r"
+  },
+  {
+    "Nb": "272",
+    "EpgId": "1117",
+    "Name": "EUROSPORT 360 21",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1117/canal-ouah/CHN43FN/CHN43FN_1117_20240716-m-Rz"
+  },
+  {
+    "Nb": "273",
+    "EpgId": "1118",
+    "Name": "EUROSPORT 360 22",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1118/canal-ouah/CHN43FN/CHN43FN_1118_20240716-5_99"
+  },
+  {
+    "Nb": "274",
+    "EpgId": "1119",
+    "Name": "EUROSPORT 360 23",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1119/canal-ouah/CHN43FN/CHN43FN_1119_20240716-dl40"
+  },
+  {
+    "Nb": "275",
+    "EpgId": "1120",
+    "Name": "EUROSPORT 360 24",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1120/canal-ouah/CHN43FN/CHN43FN_1120_20240716-8J0r"
+  },
+  {
+    "Nb": "276",
+    "EpgId": "1121",
+    "Name": "EUROSPORT 360 25",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1121/canal-ouah/CHN43FN/CHN43FN_1121_20240716-1N0p"
+  },
+  {
+    "Nb": "277",
+    "EpgId": "1122",
+    "Name": "EUROSPORT 360 26",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1122/canal-ouah/CHN43FN/CHN43FN_1122_20240716-pAdL"
+  },
+  {
+    "Nb": "278",
+    "EpgId": "1123",
+    "Name": "EUROSPORT 360 27",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1123/canal-ouah/CHN43FN/CHN43FN_1123_20240716-ZAHW"
+  },
+  {
+    "Nb": "279",
+    "EpgId": "1124",
+    "Name": "EUROSPORT 360 28",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1124/canal-ouah/CHN43FN/CHN43FN_1124_20240716-XMLM"
+  },
+  {
+    "Nb": "280",
+    "EpgId": "1125",
+    "Name": "EUROSPORT 360 29",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1125/canal-ouah/CHN43FN/CHN43FN_1125_20240716-l5R1"
+  },
+  {
+    "Nb": "281",
+    "EpgId": "1126",
+    "Name": "EUROSPORT 360 30",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1126/canal-ouah/CHN43FN/CHN43FN_1126_20240716-m1RU"
+  },
+  {
+    "Nb": "282",
+    "EpgId": "1127",
+    "Name": "EUROSPORT 360 31",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1127/canal-ouah/CHN43FN/CHN43FN_1127_20240716-rzic"
+  },
+  {
+    "Nb": "283",
+    "EpgId": "1128",
+    "Name": "EUROSPORT 360 32",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1128/canal-ouah/CHN43FN/CHN43FN_1128_20240716-PPRU"
+  },
+  {
+    "Nb": "284",
+    "EpgId": "596",
+    "Name": "BEIN SPORTS MAX 4",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981655"
+  },
+  {
+    "Nb": "285",
+    "EpgId": "597",
+    "Name": "BEIN SPORTS MAX 5",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981657"
+  },
+  {
+    "Nb": "286",
+    "EpgId": "598",
+    "Name": "BEIN SPORTS MAX 6",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981659"
+  },
+  {
+    "Nb": "287",
+    "EpgId": "599",
+    "Name": "BEIN SPORTS MAX 7",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981661"
+  },
+  {
+    "Nb": "288",
+    "EpgId": "603",
+    "Name": "BEIN SPORTS MAX 8",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981667"
+  },
+  {
+    "Nb": "289",
+    "EpgId": "604",
+    "Name": "BEIN SPORTS MAX 9",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981669"
+  },
+  {
+    "Nb": "290",
+    "EpgId": "605",
+    "Name": "BEIN SPORTS MAX 10",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48981671"
+  },
+  {
+    "Nb": "294",
+    "EpgId": "815",
+    "Name": "CANAL+PREMIER LEAGUE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/93739265"
+  },
+  {
+    "Nb": "378",
+    "EpgId": "845",
+    "Name": "A+",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/845/canal-ouah/CHN43FN/CHN43FN_845_20251013-iFwM"
+  },
+  {
+    "Nb": "381",
+    "EpgId": "527",
+    "Name": "NOLLYWOOD TV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/527/canal-ouah/CHN43FN/CHN43FN_527_20251013-luf-"
+  },
+  {
+    "Nb": "382",
+    "EpgId": "848",
+    "Name": "NOLLYWOOD TV EPIC",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/848/canal-ouah/CHN43FN/CHN43FN_848_20251013-VHcq"
+  },
+  {
+    "Nb": "383",
+    "EpgId": "1183",
+    "Name": "SUNU YEUF",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1183/canal-ouah/CHN43FN/CHN43FN_1183_20251013-Nhqo"
+  },
+  {
+    "Nb": "384",
+    "EpgId": "1184",
+    "Name": "PULAAGU",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1184/canal-ouah/CHN43FN/CHN43FN_1184_20251013-i1Zr"
+  },
+  {
+    "Nb": "385",
+    "EpgId": "1185",
+    "Name": "MANDEKA",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1185/canal-ouah/CHN43FN/CHN43FN_1185_20251013-yz4n"
+  },
+  {
+    "Nb": "386",
+    "EpgId": "1186",
+    "Name": "MABOKE TV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1186/canal-ouah/CHN43FN/CHN43FN_1186_20251013-7pcz"
+  },
+  {
+    "Nb": "388",
+    "EpgId": "54",
+    "Name": "2M MONDE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/54/canal-ouah/CHN43FN/CHN43FN_54_20251013-zS95"
+  },
+  {
+    "Nb": "389",
+    "EpgId": "1187",
+    "Name": "ECHOROUK NEWS",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1187/canal-ouah/CHN43FN/CHN43FN_1187_20251013-PoQH"
+  },
+  {
+    "Nb": "390",
+    "EpgId": "1188",
+    "Name": "ECHOROUK TV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1188/canal-ouah/CHN43FN/CHN43FN_1188_20251013-_5mb"
+  },
+  {
+    "Nb": "391",
+    "EpgId": "1189",
+    "Name": "NESSMA TV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1189/canal-ouah/CHN43FN/CHN43FN_1189_20251013-jbYT"
+  },
+  {
+    "Nb": "392",
+    "EpgId": "1190",
+    "Name": "SAMIRA TV",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1190/canal-ouah/CHN43FN/CHN43FN_1190_20251013-f_1k"
+  },
+  {
+    "Nb": "393",
+    "EpgId": "1191",
+    "Name": "EL HIWAR ETTOUNSI",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1191/canal-ouah/CHN43FN/CHN43FN_1191_20251013-8I6Q"
+  },
+  {
+    "Nb": "394",
+    "EpgId": "1192",
+    "Name": "SKYNEWS ARABIA",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1192/canal-ouah/CHN43FN/CHN43FN_1192_20251013-NnVq"
+  },
+  {
+    "Nb": "395",
+    "EpgId": "1193",
+    "Name": "MBC 5",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1193/canal-ouah/CHN43FN/CHN43FN_1193_20251013-PWmd"
+  },
+  {
+    "Nb": "396",
+    "EpgId": "1194",
+    "Name": "MBC DRAMA",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1194/canal-ouah/CHN43FN/CHN43FN_1194_20251013-6F5b"
+  },
+  {
+    "Nb": "397",
+    "EpgId": "1195",
+    "Name": "ROTANA CINEMA FR",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1195/canal-ouah/CHN43FN/CHN43FN_1195_20251013-7Wd0"
+  },
+  {
+    "Nb": "398",
+    "EpgId": "1196",
+    "Name": "ROTANA CINEMA",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1196/canal-ouah/CHN43FN/CHN43FN_1196_20251013-FFA-"
+  },
+  {
+    "Nb": "399",
+    "EpgId": "1197",
+    "Name": "ROTANA KIDS",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1197/canal-ouah/CHN43FN/CHN43FN_1197_20251013--rxA"
+  },
+  {
+    "Nb": "411",
+    "EpgId": "1083",
+    "Name": "RAI 1",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/1083/canal-ouah/CHN43FN/CHN43FN_1083_20240202-sDjG"
+  },
+  {
+    "Nb": "412",
+    "EpgId": "854",
+    "Name": "EURONEWS ITALIE",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/854/canal-ouah/CHN43FN/CHN43FN_854_20230919"
+  },
+  {
+    "Nb": "418",
+    "EpgId": "71",
+    "Name": "TVE INTERNACIONAL",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/71/canal-ouah/CHN43FN/CHN43FN_71_20230919"
+  },
+  {
+    "Nb": "419",
+    "EpgId": "496",
+    "Name": "CANAL 24 HORAS",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/496/canal-ouah/CHN43FN/CHN43FN_496_20230919"
+  },
+  {
+    "Nb": "427",
+    "EpgId": "123",
+    "Name": "RTL",
+    "LogoUrl": "https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/http/unsafe/filters:format(png):anamorphosis(640,480)/canalplus-cdn.canal-plus.io/p1/channel/123/canal-ouah/CHN43FN/CHN43FN_123_20230919"
+  }
+]
